@@ -1,6 +1,6 @@
 {
   "name": "practical-animation",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "一套实用的css动画",
   "main": "index.js",
   "scripts": {
