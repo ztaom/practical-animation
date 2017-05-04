@@ -1,6 +1,6 @@
 {
   "name": "practical-animation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一套实用的css动画",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,6 @@
   "author": "xuerong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JeremyWei/easy_mongo/issues"
+    "url": "https://github.com/ztaom/practical-animation/issues"
   }
 }
