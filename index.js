@@ -1,3 +1,3 @@
-export.sayHello = function () {
+exports.sayHello = function () {
 	console.log('hello world!')
 }
